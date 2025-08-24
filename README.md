@@ -3,7 +3,7 @@ Subcore is a multi threaded, fast and passive subdomain enumeration tool. Which 
 
 ## Installation 
 
-      git clone https://github.com/Vishnu-Uchiha/subcore.git
+      git clone https://github.com/vux06/subcore.git
       cd subcore
       pip install -r requirements.txt
 
